@@ -366,7 +366,7 @@ def approval():
         print("\033[1;97m[\033[1;32m+\033[1;97m] \033[1;32mPAID BUT FREE\033[1;97m ● \033[1;32mFOR FRIEND ")
         print("\033[1;97m[\033[1;32m+\033[1;97m] \033[1;32mYour key :\x1b[1;96m "+TEAM69+HENTAI+key)
         print(41*'\033[1;97m—')
-        #name = input("\033[1;97m[\033[1;97m≈\033[1;97m] \033[1;32mYOUR NAME : ")
+        name = input("\033[1;97m[\033[1;97m≈\033[1;97m] \033[1;32mYOUR NAME : ")
         os.system("xdg-open https://m.me/TEAM69.HENTAI")
 approval()
         
